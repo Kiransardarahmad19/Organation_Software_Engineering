@@ -37,10 +37,43 @@ The technical team addresses user issues and maintains the app’s functionality
 The project documentation includes various diagrams to illustrate system architecture and workflows:
 
 ### Context Model
+
+![Context Diagram](contextmodel.png)
+
+
 ### Process Model
+
+The app "Organisation" is based on an incremental model based on agile development. Our 
+application requires rapid changes and continuous patient and doctor communication. Hence, it 
+is best if we implement Errors that are easily recognized. It is easier to test and debug. It is more flexible and straightforward to manage risk because it is handled during iteration. The Client gets the necessary functionality early.
+
+![Context Diagram](processmodel.png)
+
+
 ### ERD Diagram
+
+![Context Diagram](erd.png)
+
 ### Use Case Diagrams
+
+![Context Diagram](usecase.png)
+
 ### Sequence Diagrams
+![Context Diagram](seq1.png)
+![Context Diagram](seq2.png)
+
+![Context Diagram](seq3.png)
+
+![Context Diagram](seq4.png)
+
+![Context Diagram](seq5.png)
+
+![Context Diagram](seq6.png)
+![Context Diagram](seq7.png)
+![Context Diagram](seq8.png)
+
+
+
 ### Data Flow Diagram
 ### State Transition Diagram
 ### Activity Diagram
