@@ -120,3 +120,7 @@ There can be a separate server for hospitals.
 # Conclusion
 Organation offers a secure, efficient, and user-friendly platform to manage the entire organ donation and transplantation process. It enables communication and collaboration between all stakeholders, from donors to medical professionals, creating a valuable resource for the healthcare community.
 
+## My Contribution 
+
+Designed the complete Organation system architecture, mapping all donor, recipient, medical, legal, and coordination workflows into a unified platform.
+
